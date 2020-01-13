@@ -1,9 +1,9 @@
 # magina
 
 
-<a href="https://raw.githubusercontent.com/Jaid/magina/master/license.txt"><img src="https://img.shields.io/github/license/Jaid/magina?style=flat-square" alt="License"/></a>  
-<a href="https://actions-badge.atrox.dev/Jaid/magina/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2FJaid%2Fmagina%2Fbadge" alt="Build status"/></a> <a href="https://github.com/Jaid/magina/commits"><img src="https://img.shields.io/github/commits-since/Jaid/magina/v1.1.0?style=flat-square&logo=github" alt="Commits since v1.1.0"/></a> <a href="https://github.com/Jaid/magina/commits"><img src="https://img.shields.io/github/last-commit/Jaid/magina?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/Jaid/magina/issues"><img src="https://img.shields.io/github/issues/Jaid/magina?style=flat-square&logo=github" alt="Issues"/></a>  
-<a href="https://npmjs.com/package/magina"><img src="https://img.shields.io/npm/v/magina?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/Jaid/magina/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/magina?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/magina"><img src="https://img.shields.io/npm/dm/magina?style=flat-square&logo=npm" alt="Downloads"/></a>
+<a href="https://raw.githubusercontent.com/jaid/magina/master/license.txt"><img src="https://img.shields.io/github/license/jaid/magina?style=flat-square" alt="License"/></a> <a href="https://github.com/sponsors/jaid"><img src="https://img.shields.io/badge/<3-Sponsor-FF45F1?style=flat-square" alt="Sponsor magina"/></a>
+<a href="https://actions-badge.atrox.dev/jaid/magina/goto"><img src="https://img.shields.io/endpoint.svg?style=flat-square&url=https%3A%2F%2Factions-badge.atrox.dev%2Fjaid%2Fmagina%2Fbadge" alt="Build status"/></a> <a href="https://github.com/jaid/magina/commits"><img src="https://img.shields.io/github/commits-since/jaid/magina/v1.1.0?style=flat-square&logo=github" alt="Commits since v1.1.0"/></a> <a href="https://github.com/jaid/magina/commits"><img src="https://img.shields.io/github/last-commit/jaid/magina?style=flat-square&logo=github" alt="Last commit"/></a> <a href="https://github.com/jaid/magina/issues"><img src="https://img.shields.io/github/issues/jaid/magina?style=flat-square&logo=github" alt="Issues"/></a>  
+<a href="https://npmjs.com/package/magina"><img src="https://img.shields.io/npm/v/magina?style=flat-square&logo=npm&label=latest%20version" alt="Latest version on npm"/></a> <a href="https://github.com/jaid/magina/network/dependents"><img src="https://img.shields.io/librariesio/dependents/npm/magina?style=flat-square&logo=npm" alt="Dependents"/></a> <a href="https://npmjs.com/package/magina"><img src="https://img.shields.io/npm/dm/magina?style=flat-square&logo=npm" alt="Downloads"/></a>
 
 **Deprecated.**
 
@@ -41,14 +41,13 @@ yarn add magina@^1.1.0
 
 
 
-
 ## Development
 
 
 
 Setting up:
 ```bash
-git clone git@github.com:Jaid/magina.git
+git clone git@github.com:jaid/magina.git
 cd magina
 npm install
 ```
