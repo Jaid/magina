@@ -31,5 +31,6 @@
     "prepareActionJest": "npm run build:prod"
   },
   "name": "magina",
-  "description": "Deprecated."
+  "description": "Deprecated.",
+  "funding": "https://github.com/sponsors/jaid"
 }
